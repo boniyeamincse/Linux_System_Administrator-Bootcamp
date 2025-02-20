@@ -3,9 +3,13 @@
 ## 🏆 Bootcamp Overview
 The **Linux System Administrator Bootcamp** is designed to equip IT professionals, system engineers, and aspiring administrators with the essential skills to manage and maintain Linux environments efficiently. This bootcamp covers foundational to advanced topics, ensuring participants gain hands-on experience with Linux systems, networking, security, and automation. Through practical labs and real-world scenarios, learners will develop the expertise needed to configure, manage, and troubleshoot Linux-based systems.
 
-## Target Audience
-- System Engineer
+## 🎯 Target Audience
+- System Engineers
 - IT Professionals
+- DevOps Engineers
+- Cloud Administrators
+- Technical Support Engineers
+- Aspiring Linux Administrators
 
 ## Course Pre-Requisites
 - Operating System Concepts
