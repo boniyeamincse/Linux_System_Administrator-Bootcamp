@@ -1,5 +1,7 @@
 # 🖥️ Linux System Administrator Bootcamp
-[![Linux Admin Banner](https://via.placeholder.com/1200x400/0D1117/FFFFFF/?text=Linux+System+Administration+Bootcamp)](https://linkedin.com/in/boni-yeamin)
+<div align="center">
+  <img src="https://github.com/boniyeamincse/Linux_System_Administrator-Bootcamp/raw/main/image/linuxsystemboadcamp.png" alt="Linux System Administration Bootcamp Banner">
+</div>
 
 ## �� Bootcamp Overview
 The **Linux System Administrator Bootcamp** is designed to equip IT professionals, system engineers, and aspiring administrators with the essential skills to manage and maintain Linux environments efficiently. This bootcamp covers foundational to advanced topics, ensuring participants gain hands-on experience with Linux systems, networking, security, and automation. Through practical labs and real-world scenarios, learners will develop the expertise needed to configure, manage, and troubleshoot Linux-based systems.
