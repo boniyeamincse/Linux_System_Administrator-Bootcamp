@@ -79,3 +79,13 @@ The **Linux System Administrator Bootcamp** is designed to equip IT professional
 - Linux Command Syntax, Options, and Arguments
 - Examples of Simple Commands
 - Powering Off, Rebooting, and Logging Out of the System
+
+
+
+
+
+
+
+
+## ✍️ About the Author
+**Boni Yeamin** is a passionate **Cybersecurity Engineer** with expertise in **Linux system administration, network security, penetration testing, and incident response**. With years of hands-on experience in managing and securing Linux-based environments, he has trained professionals and aspiring administrators in mastering Linux fundamentals and security best practices. Boni is dedicated to spreading cybersecurity awareness and empowering IT professionals through technical education and mentorship.
